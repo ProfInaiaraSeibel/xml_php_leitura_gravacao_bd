@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<usuarios>
+    <usuario>
+        <nome>Inaiara</nome> 
+        <email>inaiaraseibel@isprojetos.com.br</email> 
+    </usuario>
+    <usuario>
+        <nome>Vicente</nome> 
+        <email>vicente@email.com.br</email> 
+    </usuario>
+     <usuario>
+        <nome>João</nome> 
+        <email>joaol@isprojetos.com.br</email> 
+    </usuario>
+    <usuario>
+        <nome>Pedro</nome> 
+        <email>pedro@email.com.br</email> 
+    </usuario>
+</usuarios>
